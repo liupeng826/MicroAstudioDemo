@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/black"
+        android:state_checked="false" />
+    <item android:color="@color/white"
+        android:state_checked="true" />
+</selector>
